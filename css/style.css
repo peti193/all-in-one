@@ -1081,8 +1081,8 @@ ira:before,.fa-try:before{content:"\f195"}
 	line-height: 50px;
 }
 .sticky-head .inner {
-	width: 980px;
-	margin: 0 auto;
+/*	width: 980px;
+*/	margin: 0 auto;
 }
 .logo {
 
