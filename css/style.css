@@ -1126,4 +1126,14 @@ ira:before,.fa-try:before{content:"\f195"}
 	padding: 1em 0 2.5em 0;
 	background: #f5f5f5;
 	color: #000;
+	background: url('images/overlay.png'), linear-gradient(90deg, #3a4e59 , #5f796b , #2f394e);
+	border-top: 2px solid #fff;
+	border-bottom: 2px solid #fff;
+	color: #f5f5f5;
+	text-shadow: 1px 2px 3px rgba( 0 , 0 , 0 , 0.7); 
+
+
+}
+#first > header  p {
+	text-align: justify!important;
 }
