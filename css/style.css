@@ -1122,3 +1122,8 @@ ira:before,.fa-try:before{content:"\f195"}
 	float: left;
 	margin-left: 25px;
 }
+#first > header {
+	padding: 1em 0 2.5em 0;
+	background: #f5f5f5;
+	color: #000;
+}
