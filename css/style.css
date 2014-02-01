@@ -1148,3 +1148,10 @@ ira:before,.fa-try:before{content:"\f195"}
 	padding: 1em;
 	border-right: 1px solid #fff
 }*/
+.btn-abs {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	margin-bottom: 383px;
+	margin-right: 203px;
+}
