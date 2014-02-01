@@ -864,7 +864,7 @@ ira:before,.fa-try:before{content:"\f195"}
 		background-position: center center;
 		text-align: center;
 		color: #fff;
-		height: 500px;
+		height: 615px;
 
 	}
 		#header .button {
@@ -1141,3 +1141,10 @@ ira:before,.fa-try:before{content:"\f195"}
 	font-size: 25px;
 	text-align: center!!important;
 }
+/*.nav li a {
+	background: url('images/overlay.png'),
+	linear-gradient(90deg,  #a56365, #412e4c);
+	color:#f5f5f5;
+	padding: 1em;
+	border-right: 1px solid #fff
+}*/
