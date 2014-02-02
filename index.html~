@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>All in One Nyomda</title>
+		<title>All in One Nyomda</title><!-- title teszt-->
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -36,7 +36,8 @@
 				<ul>
 					
 					<li><a href="#header" class="main-nav  scrolly">Főoldal</a></li>
-					<li><a href="#first" class="main-nav  scrolly">Tevékenységeink</a></li>
+					<li><a href="#first" class="main-nav  scrolly">Cégünkről</a></li>
+					<li><a href="#tev" class="main-nav  scrolly">Tevékenységeink</a></li>
 					<li><a href="#fourth" class="main-nav  scrolly">Kapcsolat</a></li>
 
 				</ul>
@@ -48,9 +49,9 @@
 		<!-- Header -->
 			<section id="header" class="dark">
 				<header>
-				<div>
-<!-- 					<h1>Üdvözöljük az All in One Nyomda honlapján</h1>
- -->				</div>
+				<div class="head-text">
+					<h1>Üdvözöljük az All in One Nyomda honlapján</h1>
+				</div>
 				</header>
 <!-- 				<footer>
 					<a href="#first" class="button scrolly">Tekintse meg referenciáinkat!</a>
@@ -58,7 +59,7 @@
 			</section>
 			<section id="first" class="main">
 				<header>
-					<div class="container reference">
+<!-- 					<div class="container reference">
 						<div class="row">
 							<div class="item">
 								<section>
@@ -81,9 +82,20 @@
 								</section>
 							</div>
 						</div>
+					</div> -->
+					<div class="container">
+						<div class="cegunkrol">Cégünkről</div>
+						<p>Szolnokon található nyomdánkban ofszet-, szita-, tampon-, és digitális nyomtatással készítünk a névjegykártya, szórólap és prospektustól, pólók feliratozásán át a reklámtárgyak emblémázásáig szinte bármit.
+						</p>
+						<p>
+							Az ország bármely területén található vállalkozásokat az üzleti élet mindennapjaihoz szükséges nyomtatványokkal (névjegykártya, levélpapír,boríték, gyűrűs mappa , stancolt dosszié stb.), illetve az egyéni megrendelőket alkalmi kiadványokkal (esküvői meghívók, fotókönyvek, stb.) látjuk el.
+						</p>
+						<p>
+							Cégünk Magyarország legnagyobb reklámajándék forgalmazóival áll szoros kapcsolatban, így Ön katalógusainkból kiválaszthatja a vállalkozása számára legmegfelelőbb promóciós anyagokat. Az egyedien emblémázott termékekkel meglepheti ügyfeleit, ajándékozhat és népszerűsítheti vállalkozását. Kérjen árajánlatot, próbáljon ki minket!
+						</p>
 					</div>
 				</header>
-				<div class="content dark style1 featured what-we-do">
+				<div id="tev" class="content dark style1 featured what-we-do">
 					<div class="container">
 						<div class="row">
 							<div class="4u">
@@ -147,13 +159,14 @@
 									-könyv<br />
 									-katalógus-prospektus<br />
 									-étlap-itallap<br />
-									-matrica<br />
+									-papír öntapadó<br />
 									-programfüzet<br />
 									-szórólap<br />
 									-plakát<br />
-									-cégtábla<br />
+									-digitális nyomtatás<br />
 									-naptár<br />
 									-boríték
+
 									</div>
 		
 								</p>
@@ -184,11 +197,9 @@
 								<section>
 									<h3>Szitanyomás</h3>
 									<p>A legrégibb nyomtatási eljárás melyet már több ezer éve a távol keleten is alkalmazták . Maga a technológia nem sokat változott csupán az anyagon lettek sokkal modernebbek. A szita technológia egy közvetlen nyomtatási eljárás, nyomóformája a fém és textilszálakból szőtt szitaszövet, melyen van szabadon hagyott és zárt, nem áteresztő felület. Szabad lukakon átpréselt festék festi meg a hordozót, melyet előzőleg szétdörgöléssel visznek fel a szita felületére. Eleinte kezdetelegesnek minősült, ma már színvonalas nyomtatványok állíthatók így elő.</p>
-									<p> A szita technológia egy közvetlen nyomtatási eljárás, alacsony és közepes példányszám nyomása esetén használatos,  fő előnye, , hogy bármilyen hordozóra képes az információt felvinni. Textíliák, dekorfóliák, nagyon vastag papírlemezek, fém, műanyag, vászon. </p>
+									<p> A szita technológia egy közvetlen nyomtatási eljárás, alacsony és közepes példányszám nyomása esetén használatos,  fő előnye, hogy bármilyen hordozóra képes az információt felvinni. Textíliák, dekorfóliák, nagyon vastag papírlemezek, fém, műanyag, vászon. </p>
 
-									<footer>
-										<a href="#fourth" class="button scrolly">Árajánlatkérés</a>
-									</footer>
+
 								</section>
 							</div>
 							<div class="8u">
@@ -196,14 +207,19 @@
 								<div class="row no-collapse">
 									 <div class="6u"><a href="javascript:void(null)" class="image full szita-mini-1"></a></div> 
 									<div class="6u"><a href="javascript:void(null)" class="image full szita-mini-2"></a></div>
+									<footer class="btn-abs">
+										<a href="#fourth" class="button scrolly">Árajánlatkérés</a>
+									</footer>
 								</div>
 								<div class="row no-collapse">
 									<div class="6u"><a href="javascript:void(null)" class="image full szita-mini-3"></a></div>
 									 <div class="6u"><a href="javascript:void(null)" class="image full szita-mini-4"></a></div> 
+
 								</div>
 								<div class="row no-collapse">
 									<!-- <div class="6u"><a href="javascript:void(null)" class="image full szita-mini-5"></a></div> -->
 									<!-- <div class="6u"><a href="javascript:void(null)" class="image full szita-mini-6"></a></div> -->
+
 								</div>
 							</div>
 							<section>
@@ -211,8 +227,10 @@
 											<span style="font-weight: bold;color:#fff;">Leggyakrabban gyártott termékeink:</span><br />
 											<div style="padding-left: 25px;">
 												-ruházati termékek<br />
+												-polók<br/>
+												-munkaruhák<br/>
 												-meghívók<br />
-												-italímke<br />
+												-italcímke<br />
 												-papírzacskók<br />
 												-szatyrok<br />
 												-esernyők<br />
@@ -236,13 +254,13 @@
 						<div class="row">
 							<div class="4u">
 								<h3>Tamponnyomás</h3>
-								<p>A tamponnyomás egy mélynyomási eljárás, amelyben az ún. tampon viszi fel a festéket közvetlenül a kiválasztott anyagra, tárgyra. Az eljárás során a tampon felveszi a festéket egy kliséről (ami sima lap, melybe a nyomtatot marták).</p>
+								<p>A tamponnyomás egy mélynyomási eljárás, amelyben az ún. tampon viszi fel a festéket közvetlenül a kiválasztott anyagra, tárgyra. Az eljárás során a tampon felveszi a festéket egy kliséről.</p>
 
 								<p> A különlegesség, hogy ezzel a módszerrel domború, homorú és egészen extrém alakú felületet is megnyomhatunk, A festéket átadó bélyeget nevezzük tamponnak és innen kapta a nevét is az eljárás: tamponnyomás.</p>
 
 
 							</div>
-							<div class="4u">
+							<div class="4u" style="margin-top:76px;">
 								<p>
 									<span style="font-weight: bold;color:#fff;">
 										Milyen felületen alkalmazhatjuk a tamponnyomást?
@@ -251,7 +269,6 @@
 								<p>
 									Fa, üveg, kerámia, műanyagok, fémek, papír, bőr, agyag (tulajdonképpen egyszerűbb lenne meghatározni, hogy mit nem lehet taponnyomni). 	
 								</p>
-								<p>Cégünk Magyarország legnagyobb reklámajándék forgalmazóival áll szoros kapcsolatban, így Ön katalógusainkból kiválaszthatja a vállalkozása számára legmegfelelőbb promóciós anyagokat. Az egyedien emblémázott termékekkel meglepheti ügyfeleit, ajándékozhat és népszerűsítheti vállalkozását.</p>
 							</div>
 							<div class="4u">
 
@@ -300,8 +317,10 @@
 							<p><span style="font-weight: normal;">Keressen minket bátran!</span> Lépjen velünk kapcsolatba az alábbi elérhetőségek valamelyikén!</p>
 							<p>All in One Nyomda Kft.</p>
 							<p>Cím: Szolnok, Újszászi út 13.</p>
-							<p>Központi telefonszáma: +36-30/4096159</p>
-							<p>E-mail cím: <a href="mailto:allinonenyomda@gmail.com"> allinonenyomda@gmail.com</a></p>
+							<p>Telefonszáma: +36-30/4096159</p>
+							<p>E-mail cím: <a class="blue-bg" href="mailto:szerkeszto@allinonenyomda.hu"> szerkeszto@allinonenyomda.hu</a><br/>
+							<a class="blue-bg" style="margin-left:90px;" href="mailto:konkagabor@allinonenyomda.hu"> konkagabor@allinonenyomda.hu</a>
+							</p>
 					</header>
 					<div class="clr"></div>
 				</div>
@@ -311,7 +330,7 @@
 			<section id="footer">
 				<div class="copyright">
 					<ul class="menu">
-						<li>&copy; Untitled. All rights reserved.</li>
+						<li>&copy; 2014 All In One Nyomda Minden jog fenntartva</li>
 					</ul>
 				</div>
 			</section>
@@ -328,6 +347,7 @@
 					 }
 					},
 					"autofit" );
+
 			</script>
 
 	</body>
