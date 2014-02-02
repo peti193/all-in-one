@@ -1188,6 +1188,7 @@ ira:before,.fa-try:before{content:"\f195"}
 .nav ul li:first-child > a {
 	border-bottom-left-radius:50px;
 	padding-left: 35px;
+	padding-right: 35px;
 
 }
 .nav ul li a:hover {
@@ -1208,7 +1209,8 @@ transition: all 0.5s ease;
 }
 .nav ul li a {
 	color:#606c88;
-	font-size: 0.8em;
+	font-size: 0.9em;
+	font-weight: 600;
 }
 .head-text {
 	background: rgba(255 , 255 , 255 , 0.8);
