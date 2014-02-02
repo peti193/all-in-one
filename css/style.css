@@ -1169,8 +1169,10 @@ ira:before,.fa-try:before{content:"\f195"}
 	position: absolute;
 	right: 0;
 	bottom: 0;
-	margin-bottom: 383px;
-	margin-right: 203px;
+	margin-bottom: 200px;
+	margin-right: 150px;
+/*	margin-bottom: 383px;
+	margin-right: 203px;*/
 }
 .blue-bg {
 	color: #2f394e;
