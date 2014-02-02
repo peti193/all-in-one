@@ -868,6 +868,7 @@ ira:before,.fa-try:before{content:"\f195"}
 		color: #fff;
 		height: 615px;
 		border:2px solid #fff;
+		background-attachment:fixed;
 
 	}
 		#header .button {
