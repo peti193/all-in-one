@@ -881,11 +881,9 @@ ira:before,.fa-try:before{content:"\f195"}
 		width: 668px;
 		height: 154px;
 		position: absolute;
-		bottom:0;
-/*		left:50%;
-		margin-left:-334px;*/
-		right:0;
-		top:38%;
+		left:50%;
+		margin-left:-334px;
+
 
 /*		margin-left: -334px;
 /**/		/*margin: auto;*/
