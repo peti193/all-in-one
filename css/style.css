@@ -880,10 +880,14 @@ ira:before,.fa-try:before{content:"\f195"}
 		#header div {
 		width: 668px;
 		height: 154px;
+		position: absolute;
+		bottom:0;
+		left:50%;
+		margin-left:-334px;
 
 
 /*		margin-left: -334px;
-*/		margin: auto;
+/**/		/*margin: auto;*/
 		}
 		#header h1 {
 			color: #000;
