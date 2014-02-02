@@ -878,7 +878,7 @@ ira:before,.fa-try:before{content:"\f195"}
 		}
 		#header div {
 		width: 668px;
-		height: 140px;
+		height: 154px;
 
 
 /*		margin-left: -334px;
@@ -1208,8 +1208,9 @@ transition: all 0.5s ease;
 }
 .head-text {
 	background: rgba(255 , 255 , 255 , 0.8);
-	width: 100%!important;
 	border:2px solid #fff;
+	box-shadow:  1px 2px 58px #000;
+
 
 }
 
